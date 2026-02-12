@@ -142,17 +142,6 @@ figures/fig2_ser_vs_snr_part_b.png
 
 ---
 
-# 📂 Project Structure
-
-.
-├── part_a_equalisation/  
-├── part_b_sequence_detection/  
-├── figures/  
-├── utils/  
-└── README.md  
-
----
-
 # 🧮 Core Concepts Used
 
 Wiener Filter solution:  
